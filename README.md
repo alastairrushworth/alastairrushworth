@@ -1,6 +1,6 @@
 ### 👋 Hi!
 
-I'm Alastair, a data scientist and ML engineer who loves everything python, data and ML related.  I used to host a personal website, but I'm now just using github as a place to keep things together. At the moment I'm developing [](https://blaze.email) which is an email content recommendation system for developers and people working in tech.   
+I'm Alastair, a data scientist and ML engineer who loves everything python, data and ML related.  I used to host a personal website, but I'm now just using github as a place to keep things together. At the moment I'm developing [blaze.email](https://blaze.email) which is an email content recommendation system for developers and people working in tech.   
 
 
 ### Related links
