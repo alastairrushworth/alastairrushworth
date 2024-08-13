@@ -4,6 +4,6 @@ I'm Alastair, a data scientist and ML engineer who loves everything python, data
 
 
 ### Related links
-- You can follow me on [LinkedIn](https://www.linkedin.com/in/alastair-rushworth/), [bsky]((https://bsky.app/profile/alastairrushworth.bsky.social)) or [Mastodon](https://fosstodon.org/@alastairmrushworth)
+- You can follow me on [LinkedIn](https://www.linkedin.com/in/alastair-rushworth/), [bsky](https://bsky.app/profile/alastairrushworth.bsky.social) or [Mastodon](https://fosstodon.org/@alastairmrushworth)
 - I infrequently write posts on my [Medium blog](https://medium.com/@alastairmrushworth)
 - Before I worked in ML, I lectured in statistics, a [list of papers is here](https://scholar.google.com/citations?user=imiL1YoAAAAJ&hl=en)
